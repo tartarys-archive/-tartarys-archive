@@ -1,0 +1,122 @@
+Ledger Entry 0016
+Title: Smart Contract v1 – Deployment Parameters
+Date: 2026.01.09.
+Repository: corvina-ledger
+
+Summary:
+This entry records the fixed deployment parameters
+of the Corvina Sigil Jeton (CSJ) smart contract v1.
+
+These parameters define the immutable technical
+and governance boundaries of the initial contract
+prior to deployment.
+
+────────────────────────────
+I. Network Selection
+────────────────────────────
+
+Blockchain:
+- BNB Chain (Mainnet)
+
+Rationale:
+- Low transaction costs
+- Mature infrastructure
+- Wide wallet compatibility (MetaMask)
+- Sufficient decentralization for v1 demonstration
+
+Testnet usage was evaluated but skipped
+to reduce operational friction at this stage.
+The deployment will be conservative and minimal.
+
+────────────────────────────
+II. Token Identity
+────────────────────────────
+
+Token Name:
+- Corvina Sigil Jeton
+
+Symbol (Ticker):
+- CSJ
+
+Decimals:
+- 0
+
+Rationale:
+- CSJ represents discrete, countable units
+- No fractional ownership in v1
+- Each jeton corresponds to a clearly defined
+  archival, custodial, or intellectual unit
+
+────────────────────────────
+III. Total Supply
+────────────────────────────
+
+Declared Total Supply:
+- 369,000 CSJ
+
+Minting Model:
+- Single mint
+- One-time execution
+- No further minting possible after initial mint
+
+Supply Breakdown:
+- Documented in Ledger 0014
+- Includes:
+  • Physical banknote archive mint
+  • Intellectual and standard custody mint
+
+────────────────────────────
+IV. Roles and Addresses
+────────────────────────────
+
+Founder / Minter Address:
+- 0xD248A39081a09Fb8e84c8Dfaa96EB9df7A5a91Ba
+
+Treasury Address:
+- 0xC36974d69b18B3f7DB248C82f69F31477beE6Db9
+
+Role Separation:
+- Minting authority and treasury custody
+  are logically separated
+- Distribution is transparent and ledger-tracked
+
+────────────────────────────
+V. Contract Controls
+────────────────────────────
+
+Pause Function:
+- Enabled: Yes
+- Scope: Minting only
+- Transfers: Always enabled
+
+Ownership:
+- Contract ownership initially held
+  by Founder address
+- Ownership transfer is possible
+  but not planned in v1
+
+────────────────────────────
+VI. Immutability Guarantees
+────────────────────────────
+
+After deployment:
+- Token name, symbol, decimals are immutable
+- Total supply is fixed
+- Mint function is permanently disabled
+- Pause affects minting only
+
+Any future changes require:
+- New contract version
+- Explicit ledger entry
+- Public documentation
+
+────────────────────────────
+Principles Affirmed:
+- Minimal surface area
+- No hidden mechanisms
+- One-time mint integrity
+- Ledger-before-code discipline
+
+Status:
+Deployment parameters fixed and approved
+for Smart Contract v1 implementation.
