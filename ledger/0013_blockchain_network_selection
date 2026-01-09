@@ -1,0 +1,37 @@
+Ledger Entry 0013
+Title: Blockchain Network Selection Confirmed
+
+Date: 2026.01.09.
+Repository: corvina-ledger
+
+Description:
+The Corvina Keepers project has finalized its initial blockchain network selection.
+
+The BNB Smart Chain (mainnet) has been chosen as the execution environment
+for the first Corvina Sigil Jeton (CSJ) smart contract.
+
+Rationale:
+- Low and predictable transaction fees suitable for ceremonial minting
+- Mature tooling (MetaMask, Remix, BscScan)
+- Fast block times enabling real-time public witnessing
+- Sufficient decentralization for the project’s initial scope
+- Clear separation between testnet experimentation and mainnet demonstration
+
+Principles:
+- All demonstration minting will occur on mainnet to ensure real economic finality
+- Testnets may be used privately for development, but are not considered part of the Ledger
+- No dependency on centralized platforms for validation or record-keeping
+
+Scope:
+This selection applies exclusively to:
+- Corvina Sigil Jeton v1
+- First minting demonstration
+- Treasury custody and initial allocations
+
+Future Considerations:
+Multi-chain deployment, bridges, or alternative networks
+may be evaluated in later phases (v2+),
+subject to community review and governance.
+
+Status:
+Confirmed.
