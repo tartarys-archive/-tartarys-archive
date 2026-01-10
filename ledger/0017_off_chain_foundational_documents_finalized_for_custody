@@ -1,0 +1,48 @@
+Ledger Entry 0017
+Title: Off-chain Foundational Documents Finalized for Custody
+Date: 2026.01.10.
+Repository: corvina-ledger
+
+Summary:
+This entry records the finalization of all foundational documents
+required for the initial minting and custodial demonstration phase,
+prior to physical printing, signing, and archival custody.
+
+Documents Finalized (Content Freeze v1):
+- Corvina Keepers White Paper (v1)
+- Corvina Sigil Jeton Standard (v1)
+- Y-B Standard (v1)
+- CST Standard (v1)
+
+Scope of Finalization:
+- Textual content frozen for v1
+- Structural layout finalized
+- No further semantic changes permitted prior to minting demonstration
+- Any future modifications will be deferred to v2
+
+Status:
+- Documents exist in finalized digital form (PDF)
+- Not yet printed
+- Not yet signed
+- Not yet placed into physical custody
+
+Purpose:
+This step establishes a clear separation between:
+1. Conceptual and technical readiness
+2. Formal declaration, physical custody, and legal witnessing
+
+Principles Affirmed:
+- Intentional sequencing
+- Auditability of decisions
+- Transparency before irreversible actions
+
+Notes:
+This entry enables the next steps:
+- Physical printing
+- Founder’s Declaration execution
+- Hash generation
+- NFT witness creation
+- Custodial placement
+
+Recorded by:
+Corvina Keepers
