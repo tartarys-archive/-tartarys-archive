@@ -1,0 +1,68 @@
+# 0017b – Witnessing Model Definition (Post-Signature, Pre-Mint)
+
+## Status
+Model Definition  
+Pre-Minting / Post-Physical Finalization Phase
+2026.01.10.
+
+## Context
+Following the physical printing and manual signing of the finalized Version 1 documents,
+the Corvina Keepers system transitions from intent to verifiable witnessing.
+
+This entry defines the witnessing logic that will govern:
+- document authenticity,
+- custody claims,
+- and historical traceability.
+
+## Witnessing Model Overview
+The Corvina Keepers witnessing model is based on a three-layer structure:
+
+1. **Physical Layer**
+   - Signed paper documents
+   - Archived banknotes
+   - Physical custody under treasury control
+
+2. **Cryptographic Layer**
+   - SHA-256 hashes derived from physically signed documents
+   - Hashes serve as immutable fingerprints
+   - No content is embedded on-chain, only cryptographic references
+
+3. **On-Chain Witness Layer**
+   - NFTs minted as witnesses, not ownership claims
+   - NFTs reference hashes, timestamps, and ledger entries
+   - NFTs attest that a physical object existed, was verified, and was accepted into custody
+
+## Core Principle
+NFTs do not replace physical reality.  
+They **testify** to it.
+
+The NFT is a witness, not the artifact.
+
+## Authority and Roles
+- Witness NFTs are minted under Founder authority in v1
+- Treasury custody is declared off-chain and referenced on-chain
+- Community witnessing is introduced in later versions
+
+## Non-Transfer of Meaning
+Transfer of an NFT does not imply transfer of:
+- physical ownership,
+- custodial authority,
+- or governance rights,
+unless explicitly defined in future protocol versions.
+
+## Forward Compatibility
+This witnessing model is intentionally minimal in v1.
+Expanded roles (multi-witness, quorum validation, community attestations)
+are reserved for v2 and beyond.
+
+## Forward Reference
+The first witness NFTs will be minted only after:
+- document signatures are completed,
+- hashes are computed,
+- and custody declarations are recorded.
+
+---
+
+**Ledger Role:** Witnessing Model Anchor  
+**Establishes:** Physical → Hash → NFT sequence  
+**Prepares:** First minting ceremony and immutable attestations
