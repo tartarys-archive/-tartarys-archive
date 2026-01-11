@@ -1,0 +1,71 @@
+# 0018 – Future Expansion of Custodial Mining Domains
+
+2026.01.11.
+
+## Context
+Following external review and early community feedback on Corvina Keepers v1 documents,
+a recurring question emerged regarding the potential expansion of custodial banknote mining
+to countries beyond Hungary.
+
+This entry formally records the founding response and design position.
+
+## Foundational Position
+Corvina Keepers v1 intentionally limits custodial mining to Hungarian banknotes
+(Pengő-era artifacts) in order to:
+
+- demonstrate the custodial mining model in a controlled, auditable environment,
+- establish a clear ceremonial, archival, and ledger-based precedent,
+- avoid premature complexity and jurisdictional ambiguity.
+
+This limitation is **by design**, not by constraint.
+
+## Framework-Level Insight
+The Corvina Keepers framework is **country-agnostic at the protocol level**.
+
+What is localized in v1:
+- the physical artifacts (Hungarian banknotes),
+- the historical and cultural context,
+- the initial custodial demonstration.
+
+What is universal:
+- archival custody principles,
+- digital witnessing and hashing,
+- NFT-based attestations,
+- minting logic,
+- ledger immutability,
+- ethical and custodial governance.
+
+## V2 Expansion Principle (Recorded Intent)
+In Corvina Keepers v2, expansion to additional countries is considered viable through
+**Custodial Domains**, defined as:
+
+- country-specific archival and custodial scopes,
+- governed locally by qualified custodians and witnesses,
+- anchored to the same Corvina Keepers standards and ledger principles.
+
+Each new domain would require:
+- explicit custodial declaration,
+- adherence to Corvina Sigil minting standards,
+- expert validation where applicable (e.g., numismatics),
+- transparent ledger inclusion as a distinct branch.
+
+## Governance Note
+Expansion is envisioned as **invite-based and custodially governed**, not open-ended.
+This preserves integrity, avoids dilution, and aligns with the role of Corvina Keepers
+as stewards rather than extractive operators.
+
+## Status
+This entry records intent and architectural foresight only.
+
+No expansion beyond Hungarian banknotes is active in v1.
+All such extensions are deferred to v2 and beyond, subject to custodial governance.
+
+## Ledger Effect
+- No on-chain action.
+- No minting action.
+- No parameter change.
+
+This entry serves as an immutable clarification and forward-looking anchor.
+
+Recorded with intent,
+Corvina Keepers Ledger
