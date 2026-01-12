@@ -1,0 +1,59 @@
+# 0019 – Hybrid Custody as a Long-Term Security Strategy
+2026.01.12.
+
+## Context
+
+As part of the Corvina Keepers initiative, questions have emerged regarding the long-term resilience of purely digital cryptographic systems, particularly in light of ongoing research into quantum computing and post-quantum cryptography.
+
+While no immediate threat exists to contemporary blockchain security, responsible stewardship requires acknowledging long-horizon technological risks and designing systems that remain robust across generations.
+
+## Observation
+
+Purely digital custody models rely exclusively on mathematical hardness assumptions.
+These assumptions have historically evolved over time and may continue to do so.
+
+In contrast, systems that combine:
+- cryptographic guarantees,
+- physical custody,
+- documented provenance,
+- human witnessing,
+- and immutable public ledgers,
+
+do not depend on a single failure domain.
+
+## Principle
+
+Corvina Keepers deliberately adopts a **hybrid custody model**, where value and legitimacy are anchored simultaneously in:
+
+1. **On-chain cryptographic records**
+2. **Physical artifacts held in audited custody**
+3. **Off-chain documentation and signed declarations**
+4. **Public, append-only ledger entries**
+5. **Ceremonial minting with human witnesses**
+
+This layered structure ensures that no single technological breakthrough — including advances in computation — can invalidate the system as a whole.
+
+## Rationale
+
+Even in a hypothetical future where cryptographic primitives require migration or strengthening:
+- physical custody remains verifiable,
+- provenance remains traceable,
+- ledger history remains intact,
+- and community witnessing preserves legitimacy.
+
+The system is therefore **adaptable rather than fragile**.
+
+## Position
+
+Corvina Keepers does not claim immunity from technological change.
+Instead, it acknowledges change as inevitable and designs accordingly.
+
+The hybrid model is not a reaction to fear, but an expression of foresight.
+
+## Statement
+
+Long-term value preservation is best served not by maximal abstraction,
+but by **anchoring digital systems in reality**.
+
+This ledger entry records the conscious adoption of a hybrid custody philosophy
+as a foundational design choice of Corvina Keepers.
